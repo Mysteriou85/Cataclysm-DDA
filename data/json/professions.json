@@ -3622,7 +3622,7 @@
           { "group": "charged_cell_phone" },
           { "group": "charged_ref_lighter" },
           { "item": "gasoline_lantern", "charges": 500 },
-          { "item": "water_clean", "ammo-item": "water_clean", "container-item": "canteen" },
+          { "item": "water_clean", "container-item": "canteen" },
           { "item": "medium_battery_cell", "ammo-item": "battery", "charges": 500, "container-item": "mess_kit" }
         ]
       },
